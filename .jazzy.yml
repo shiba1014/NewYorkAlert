@@ -1,0 +1,9 @@
+author: Satsuki Hashiba
+author_url: https://github.com/shiba1014
+github_url: https://github.com/shiba1014/NewYorkAlert
+module: NewYorkAlert
+readme: README.md
+output: docs
+theme: fullwidth
+clean: true
+xcodebuild_arguments: [-project, NewYorkAlert.xcodeproj, -scheme, NewYorkAlert]
