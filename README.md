@@ -8,6 +8,7 @@
 [![License](https://img.shields.io/cocoapods/l/NewYorkAlert.svg?style=flat)](http://cocoapods.org/pods/NewYorkAlert)
 [![Platform](https://img.shields.io/cocoapods/p/NewYorkAlert.svg?style=flat)](http://cocoapods.org/pods/NewYorkAlert)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![SPM compatible](https://img.shields.io/badge/SwiftPM-compatible-yellowgreen.svg?style=flat)](https://swift.org/package-manager)
 
 ## Introduction
 
@@ -116,4 +117,10 @@ pod 'NewYorkAlert'
 Add the following to your `Cartfile`:
 ```
 github "shiba1014/NewYorkAlert"
+```
+
+### [Swift Package Manager](https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_your_app)
+Select `File > Swift Packages > Add Package Dependency`, and enter the following:
+```
+https://github.com/shiba1014/NewYorkAlert
 ```
